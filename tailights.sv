@@ -1,5 +1,5 @@
 
-module ucsbece152a_taillights (
+module taillights (
     input logic clk,
     input logic rst_n,
     input logic clk_dimmer_i,
